@@ -1,0 +1,46 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.cboard
+{
+    height: 804px;
+    width: 804px;
+    background-color:whitesmoke;
+    margin: auto;
+    border: 2px solid black;
+}
+.col1
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(236, 217, 193);
+    float: left;
+}
+.col2
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(21, 94, 39);
+    float: left;
+}
+.col1 h3
+{
+    text-align: right;
+    font-size: 24px;
+    color: black;
+}
+.col2 h3
+{
+    text-align: right;
+    font-size: 24px;
+    color: white;
+}
+img
+{
+    height: 50px;
+    width: 50px;
+}
+
